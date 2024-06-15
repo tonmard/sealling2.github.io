@@ -1,7 +1,7 @@
 {
   "files": {
     "main.css": "/sealling2.github.io/static/css/main.c213554f.css",
-    "main.js": "/sealling2.github.io/static/js/main.ded53d8c.js",
+    "main.js": "/sealling2.github.io/static/js/main.955f57ba.js",
     "static/media/ombak.svg": "/sealling2.github.io/static/media/ombak.61508b7ceeeb748f2cbfcd8970947b5a.svg",
     "static/media/1.svg": "/sealling2.github.io/static/media/1.0d3af522be17234be0bd236291750d46.svg",
     "static/media/2.svg": "/sealling2.github.io/static/media/2.215d303aeec276e90cf1d1b8efe4ee94.svg",
@@ -15,10 +15,10 @@
     "static/media/sea.svg": "/sealling2.github.io/static/media/sea.8b7425a25ee69a4798508064c966b3af.svg",
     "index.html": "/sealling2.github.io/index.html",
     "main.c213554f.css.map": "/sealling2.github.io/static/css/main.c213554f.css.map",
-    "main.ded53d8c.js.map": "/sealling2.github.io/static/js/main.ded53d8c.js.map"
+    "main.955f57ba.js.map": "/sealling2.github.io/static/js/main.955f57ba.js.map"
   },
   "entrypoints": [
     "static/css/main.c213554f.css",
-    "static/js/main.ded53d8c.js"
+    "static/js/main.955f57ba.js"
   ]
 }

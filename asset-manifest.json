@@ -1,11 +1,13 @@
 {
   "files": {
-    "main.css": "/sealling2.github.io/static/css/main.a34963c6.css",
-    "main.js": "/sealling2.github.io/static/js/main.6bad8cff.js",
+    "main.css": "/sealling2.github.io/static/css/main.b5b5c583.css",
+    "main.js": "/sealling2.github.io/static/js/main.3966fc7a.js",
     "static/media/ombak.svg": "/sealling2.github.io/static/media/ombak.61508b7ceeeb748f2cbfcd8970947b5a.svg",
     "static/media/1.svg": "/sealling2.github.io/static/media/1.0d3af522be17234be0bd236291750d46.svg",
+    "static/media/buku.svg": "/sealling2.github.io/static/media/buku.874b5be42f59e3ccf67eb58e05a79b6a.svg",
     "static/media/2.svg": "/sealling2.github.io/static/media/2.215d303aeec276e90cf1d1b8efe4ee94.svg",
     "static/media/regis.svg": "/sealling2.github.io/static/media/regis.d97fb9e2f9a53855fd230ecd712e88df.svg",
+    "static/media/lampu.svg": "/sealling2.github.io/static/media/lampu.c0a27bd1ea99adb2d7ae42de7c9f9e09.svg",
     "static/media/3.svg": "/sealling2.github.io/static/media/3.92136ca26baadae97b28d297759b3ac8.svg",
     "static/media/target.svg": "/sealling2.github.io/static/media/target.132a461fec3c0a23e69a7110ad1c7f5a.svg",
     "static/media/rob1.svg": "/sealling2.github.io/static/media/rob1.f7bf805e677392d8fe6fd9e7bb8d9081.svg",
@@ -14,11 +16,11 @@
     "static/media/logof.svg": "/sealling2.github.io/static/media/logof.b9a44f4ec1eade0a93f7e829991899c9.svg",
     "static/media/sea.svg": "/sealling2.github.io/static/media/sea.8b7425a25ee69a4798508064c966b3af.svg",
     "index.html": "/sealling2.github.io/index.html",
-    "main.a34963c6.css.map": "/sealling2.github.io/static/css/main.a34963c6.css.map",
-    "main.6bad8cff.js.map": "/sealling2.github.io/static/js/main.6bad8cff.js.map"
+    "main.b5b5c583.css.map": "/sealling2.github.io/static/css/main.b5b5c583.css.map",
+    "main.3966fc7a.js.map": "/sealling2.github.io/static/js/main.3966fc7a.js.map"
   },
   "entrypoints": [
-    "static/css/main.a34963c6.css",
-    "static/js/main.6bad8cff.js"
+    "static/css/main.b5b5c583.css",
+    "static/js/main.3966fc7a.js"
   ]
 }

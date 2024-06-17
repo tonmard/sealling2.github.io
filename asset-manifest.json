@@ -1,7 +1,7 @@
 {
   "files": {
     "main.css": "/sealling2.github.io/static/css/main.93eaa2e3.css",
-    "main.js": "/sealling2.github.io/static/js/main.d57fb57a.js",
+    "main.js": "/sealling2.github.io/static/js/main.cc9b2b91.js",
     "static/media/ombak.svg": "/sealling2.github.io/static/media/ombak.61508b7ceeeb748f2cbfcd8970947b5a.svg",
     "static/media/1.svg": "/sealling2.github.io/static/media/1.0d3af522be17234be0bd236291750d46.svg",
     "static/media/buku.svg": "/sealling2.github.io/static/media/buku.874b5be42f59e3ccf67eb58e05a79b6a.svg",
@@ -12,15 +12,16 @@
     "static/media/target.svg": "/sealling2.github.io/static/media/target.132a461fec3c0a23e69a7110ad1c7f5a.svg",
     "static/media/rob1.svg": "/sealling2.github.io/static/media/rob1.f7bf805e677392d8fe6fd9e7bb8d9081.svg",
     "static/media/rob2.svg": "/sealling2.github.io/static/media/rob2.bc6dc91cd0f2e56e66e2ea4327855cda.svg",
+    "static/media/pptony.png": "/sealling2.github.io/static/media/pptony.d7ddae0e1a9b8418dd29.png",
     "static/media/3dombak.webp": "/sealling2.github.io/static/media/3dombak.7c78fa8e08ea648c831b.webp",
     "static/media/logof.svg": "/sealling2.github.io/static/media/logof.b9a44f4ec1eade0a93f7e829991899c9.svg",
     "static/media/sea.svg": "/sealling2.github.io/static/media/sea.8b7425a25ee69a4798508064c966b3af.svg",
     "index.html": "/sealling2.github.io/index.html",
     "main.93eaa2e3.css.map": "/sealling2.github.io/static/css/main.93eaa2e3.css.map",
-    "main.d57fb57a.js.map": "/sealling2.github.io/static/js/main.d57fb57a.js.map"
+    "main.cc9b2b91.js.map": "/sealling2.github.io/static/js/main.cc9b2b91.js.map"
   },
   "entrypoints": [
     "static/css/main.93eaa2e3.css",
-    "static/js/main.d57fb57a.js"
+    "static/js/main.cc9b2b91.js"
   ]
 }
